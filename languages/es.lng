@@ -1,0 +1,25 @@
+<?php
+	$welcome = "Bienvenido";
+	$plan = "El Plan";
+	$reading = "Lectura de Hoy";
+	$about = "Sobre";
+	$title = "Pan de Vida";
+	$links = "Enlaces";
+	$info = "Más Informacíon:";
+	$slogan = "Leyendo la Palabra de Dios cada Dia";
+	$chap = "Capítulo";
+	$mon[1] = "Enero";
+	$mon[2] = "Febrero";
+	$mon[3] = "Marzo";
+	$mon[4] = "Abril";
+	$mon[5] = "Mayo";
+	$mon[6] = "Junio";
+	$mon[7] = "Julio";
+	$mon[8] = "Agosto";
+	$mon[9] = "Septiembre";
+	$mon[10] = "Octubre";
+	$mon[11] = "Noviembre";
+	$mon[12] = "Deciembre";	
+	$testaments = '<tr><th>&nbsp;</th><th>Antiguo Testamento</th><th>Nuevo Testamento</th></tr>';
+	$bplan = "El Plan de Leer la Biblia";
+?>	

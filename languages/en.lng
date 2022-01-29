@@ -1,0 +1,25 @@
+<?php
+	$welcome = "Welcome";
+	$plan = "Plan";
+	$reading = "Today's Reading";
+	$about = "About";
+	$title = "Bread of Life";
+	$links = "Links";
+	$info = "More Information:";
+	$slogan = "Reading God's Word Daily";
+	$chap = "Chapter";
+	$mon[1] = "January";
+	$mon[2] = "February";
+	$mon[3] = "March";
+	$mon[4] = "April";
+	$mon[5] = "May";
+	$mon[6] = "June";
+	$mon[7] = "July";
+	$mon[8] = "August";
+	$mon[9] = "September";
+	$mon[10] = "October";
+	$mon[11] = "November";
+	$mon[12] = "December";
+	$testaments = '<tr><th>&nbsp;</th><th>Old Testament</th><th>New Testament</th></tr>';
+	$bplan = "Bible Reading Plan";
+?>	
